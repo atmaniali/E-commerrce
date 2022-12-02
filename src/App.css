@@ -1,0 +1,7 @@
+.card{
+  cursor: pointer;
+}
+
+.col-6 > img{
+  width: 100%;
+}
